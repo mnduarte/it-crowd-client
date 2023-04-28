@@ -1,6 +1,7 @@
 # it-crowd-client
 
 An application that searches through an input search for the top 10 games, you can access the details of the game, add it to favorites or remove it from favorites and you can go to the favorites section.
+In addition, a responsive design was adapted to be available on any device.
 
 ## Installation
 
